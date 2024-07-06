@@ -34,23 +34,24 @@ To run the models, you need to have Python installed along with some essential l
 pip install -r requirements.txt
 ```
 
-Usage
--Age Predictor
+## Usage
+
+## -Age Predictor
 1.Ensure you have the necessary dataset for training and testing.
 2.Train the CNN model using the dataset.
 3.Predict the age of a new image.
 
 
--Shapes Generator
+## -Shapes Generator
 1.Ensure you have the dataset for training the GAN.
 2.Train the GAN model.
 3.Generate new shapes.
 
 
-Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Feel free to modify the content according to your project's specifics. This README template provides a solid foundation to build upon.
