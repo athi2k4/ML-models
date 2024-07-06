@@ -36,13 +36,13 @@ pip install -r requirements.txt
 
 ## Usage
 
-## -Age Predictor
+## Age Predictor
 1.Ensure you have the necessary dataset for training and testing.
 2.Train the CNN model using the dataset.
 3.Predict the age of a new image.
 
 
-## -Shapes Generator
+## Shapes Generator
 1.Ensure you have the dataset for training the GAN.
 2.Train the GAN model.
 3.Generate new shapes.
