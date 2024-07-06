@@ -26,6 +26,10 @@ As my first attempt at creating machine learning models, it was exciting to see 
 - **Basic Shapes Generator**:
   - Generates images of basic shapes.
   - Utilizes a GAN architecture to learn and produce shapes.
+- **Stable-Diffusion**
+  - Generates images using the Stable Diffusion model.
+  - Provides an example of importing and using a pre-trained diffusion model.
+
 
 ## Installation
 To run the models, you need to have Python installed along with some essential libraries. You can install the required dependencies using the following command:
@@ -50,6 +54,9 @@ pip install -r requirements.txt
 2.Train the GAN model.
 
 3.Generate new shapes.
+
+
+
 
 
 ## Contributing
